@@ -17,8 +17,8 @@ Programming Languages: <br/>
 <img src="images/html5.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/css3.svg" style='vertical-align:middle' aria-label="CSS 3">
 <img src="images/javascript.svg" style='vertical-align:middle' aria-label="JavaScript">
-<img src="images/c++.svg" style='vertical-align:middle' aria-label="C++">
-<img src="images/csharp.svg" style='vertical-align:middle' aria-label="C Sharp">
+<img src="images/react.svg" style='vertical-align:middle' aria-label="C++">
+<img src="images/nodejs.svg" style='vertical-align:middle' aria-label="C Sharp">
 </p>
 
 <p>
@@ -58,4 +58,4 @@ It is a acronym for my full name. It's sound like "Ltd" which a shortened form f
 ## 😻 With thanks ... 😻
 [Tarasis](https://github.com/tarasis)
 
-The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon) & [Shields.io](https://shields.io/)
+The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon)
