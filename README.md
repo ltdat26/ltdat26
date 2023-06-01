@@ -19,10 +19,11 @@ Programming Languages: <br/>
 <img src="images/javascript.svg" style='vertical-align:middle' aria-label="JavaScript">
 <img src="images/c++.svg" style='vertical-align:middle' aria-label="C++">
 <img src="images/csharp.svg" style='vertical-align:middle' aria-label="C Sharp">
-
 </p>
 
+<p>
 Able to configure & maintain Linux, AlmaLinux servers. Experience with packages such as Apache HTTPD, NGINX, NextCloud and some more.
+</p>
 ---
 
 ## 🕰️ Short History 🕰️
