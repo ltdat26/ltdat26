@@ -24,8 +24,8 @@ Programming Languages: <br/>
 <p>
 Able to configure & maintain Linux, AlmaLinux servers. Experience with packages such as Apache HTTPD, NGINX, NextCloud and some more.
 </p>
----
 
+---
 ## 🕰️ Short History 🕰️
 
 Once upon a time I was an admin for the company's Linux network. During this time I was responsible for the operation of the building's network (local military base), before also becoming a technician.
