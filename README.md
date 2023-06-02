@@ -46,7 +46,7 @@ I've also begun learning React & NodeJS.
 
 I'm all over the place ...
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/ltdat26/) [![Twitter](images/twitter.svg)](https://www.twitter.com/ltdat26) [![Telegram](images/telegram.svg)](https://t.me/ltdat26) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)](https://ltdat26.net) [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)](https://ltdat26.dev)
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/ltdat26/) [![Twitter](images/twitter.svg)](https://www.twitter.com/ltdat26) [![Telegram](images/telegram.svg)](https://t.me/ltdat26) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)]() [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)]()
 
 
 <details><summary><h2>🤪 Why **Ltdat26**? 🤪</h2></summary>
