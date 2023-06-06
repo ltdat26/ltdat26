@@ -26,15 +26,6 @@ Able to configure & maintain Linux, AlmaLinux servers. Experience with packages 
 </p>
 
 ---
-## 🕰️ Short History 🕰️
-
-Once upon a time I was an admin for the company's Linux network. During this time I was responsible for the operation of the building's network (local military base), before also becoming a technician.
-
-After few years working as technician I left and stay at home. In 2018 I got my first Mac, and started to learn Python to keep my hand in.
-
-Then the Data things came along, and I started to learn Data Analysis. Along the way I worked as technical and reviewer on a number of games.
-
-Throughout this time I self hosted my website & email server amongst other things. I've also provided Linux support for others.
 
 ## 📚 Currently working on ... 📚
 
@@ -43,8 +34,6 @@ In 2020/2021 I started to learn HTML, CSS and JavaScript programming. At the mom
 I've also begun learning React & NodeJS.
 
 ## 🗺️ Where to find me ... 🗺️
-
-I'm all over the place ...
 
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/ltdat26/) [![Twitter](images/twitter.svg)](https://www.twitter.com/ltdat26) [![Telegram](images/telegram.svg)](https://t.me/ltdat26) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)]() [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)]()
 
@@ -55,7 +44,7 @@ It is a acronym for my full name. It's sound like "Ltd" which a shortened form f
 </p>
 </details>
 
-## 😻 With thanks ... 😻
+<details><summary><h2>😻 With thanks ... 😻</h2></summary>
 [Tarasis](https://github.com/tarasis)
 
 The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon)
