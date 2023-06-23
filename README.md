@@ -29,7 +29,8 @@ Able to configure & maintain Linux, AlmaLinux servers. Experience with packages 
 
 ## 📚 Currently working on ... 📚
 
-In 2020/2021 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on completing [freeCodeCamp](https://www.freecodecamp.org/ltdat26) challenges.
+In 2020/2021 I started to learn HTML, CSS and JavaScript programming.
+At the moment I am mostly focused on completing [freeCodeCamp](https://www.freecodecamp.org/ltdat26) challenges.
 
 I've also begun learning React & NodeJS.
 
@@ -46,5 +47,5 @@ It is a acronym for my full name. It's sound like "Ltd" which a shortened form f
 
 <details><summary><h2>😻 With thanks ... 😻</h2></summary>
 
-[Tarasis](https://github.com/tarasis)<br />
 The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon)
+[Tarasis](https://github.com/tarasis)<br />
