@@ -45,6 +45,6 @@ It is a acronym for my full name. It's sound like "Ltd" which a shortened form f
 </details>
 
 <details><summary><h2>😻 With thanks ... 😻</h2></summary>
-  
-[Tarasis](https://github.com/tarasis)
+
+[Tarasis](https://github.com/tarasis)<br />
 The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon)
